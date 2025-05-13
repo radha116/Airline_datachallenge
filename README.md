@@ -10,3 +10,5 @@ The company plans to: Launch 5 round-trip routes between medium and large U.S. a
 •	Recommend 5 routes to invest in.
 •	Determine breakeven points for each.
 •	Define KPIs for ongoing success tracking.
+
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/445ac092-6b6d-4f37-bdab-5fba1a9ec8ac" />
